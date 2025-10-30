@@ -57,4 +57,21 @@ O sistema simula de forma dinâmica a geração e o atendimento de senhas em um 
 ---
 ## 📄 Documentação:
 
+---
+## :star2: Colaboradores do projeto
+<table align="center">
+    <tr>
+        <td align="center">
+        <a href="https://www.linkedin.com/in/nathalia-flores-1811n2004/" target="_blank">Nathalia Martins</a>
+        </td>
+        <td align="center">
+        <a href="https://www.linkedin.com/in/polyana-santos-4a0936320/" target="_blank">Polyana Santos</a>
+        </td>
+        <td align="center">
+        <a href="https://www.linkedin.com/in/arthur-oliveira-20180b353/" target="_blank">Arthur Oliveira</a>
+        </td>
+    </tr>
+</table>
 
+Ao clicar no nome do colaborador, você será direcionado à página do LinkedIn do mesmo.
+        
