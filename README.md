@@ -57,5 +57,4 @@ O sistema simula de forma dinâmica a geração e o atendimento de senhas em um 
 ---
 ## 📄 Documentação:
 
-http://localhost:3000/api-docs
 
